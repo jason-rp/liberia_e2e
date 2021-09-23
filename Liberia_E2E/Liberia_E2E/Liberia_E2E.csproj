@@ -24,7 +24,6 @@
   <ItemGroup>
     <Folder Include="Base\" />
     <Folder Include="Features\" />
-    <Folder Include="Model\" />
     <Folder Include="Utilities\" />
     <Folder Include="Steps\" />
   </ItemGroup>
